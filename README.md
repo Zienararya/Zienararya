@@ -1,6 +1,9 @@
-#Intro
+# Intro
 My Name is kenzie nararya,I am very interested at sysadmin,netadmin,devops and cyber security
-##TryHackme
-<script src="https://tryhackme.com/badge/1492011"></script>
+## TryHackme
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/kenzienararya981.png" alt="TryHackMe">
+</div>
+
 
 
